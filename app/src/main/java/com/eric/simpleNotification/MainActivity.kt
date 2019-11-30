@@ -1,4 +1,4 @@
-package com.eric.actionbar
+package com.eric.simpleNotification
 
 import android.content.Context
 import android.support.v7.app.AppCompatActivity

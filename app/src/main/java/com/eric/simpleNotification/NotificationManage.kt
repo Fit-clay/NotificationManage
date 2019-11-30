@@ -1,4 +1,4 @@
-package com.eric.actionbar
+package com.eric.simpleNotification
 
 import android.annotation.SuppressLint
 import android.app.Notification
